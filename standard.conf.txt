@@ -14,6 +14,7 @@ removable_devices=yes
 wallpaper=http://ellisgeek.github.io/LTC-Porteus-Configuration/Wallpaper/Porch.jpeg
 screen_saver_idle=5
 enable_dpms=yes
+default_sound_card=0.0
 volume_level=0%
 timezone=US/Central
 zRAM=25%
