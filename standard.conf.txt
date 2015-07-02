@@ -14,5 +14,6 @@ removable_devices=yes
 wallpaper=http://ltccs.github.io/Porteus-Kiosk/Wallpaper/Porch.jpeg
 enable_dpms=yes
 timezone=US/Central
+volume_level=0%
 zRAM=25%
 additional_components=07-java.xzm 06-fonts.xzm 05-flash.xzm
