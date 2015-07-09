@@ -1,0 +1,22 @@
+
+connection=wifi
+network_interface=wlan0
+dhcp=yes
+ssid_name=LTCPublic
+allow_icmp_protocol=yes
+wake_on_lan=yes
+kiosk_config=http://ltccs.github.io/Porteus-Kiosk/libcat.conf.txt
+browser=firefox
+disable_address_bar=yes
+browser_idle=5
+homepage=http://www.gotoltc.edu/community/on-our-campus/library/search-resources/index.html
+whitelist=gotoltc.edu wcts.edu google.com
+allow_popup_windows=yes
+printer_connection=socket://172.16.32.215:9100
+printer_model=HP LaserJet 4050 Series pcl3, hpcups
+wallpaper=http://ltccs.github.io/Porteus-Kiosk/Wallpaper/Porch.jpeg
+enable_dpms=yes
+timezone=US/Central
+volume_level=0%
+zRAM=25%
+additional_components=06-fonts.xzm 05-flash.xzm
