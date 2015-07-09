@@ -14,6 +14,7 @@ whitelist=gotoltc.edu wcts.edu google.com 127.0.0.1 172.16.32.215
 allow_popup_windows=yes
 printer_connection=socket://172.16.32.215:9100
 printer_model=HP LaserJet 4050 Series pcl3, hpcups
+root_password=20Ltc15
 wallpaper=http://ltccs.github.io/Porteus-Kiosk/Wallpaper/Library.jpg
 enable_dpms=yes
 timezone=US/Central
